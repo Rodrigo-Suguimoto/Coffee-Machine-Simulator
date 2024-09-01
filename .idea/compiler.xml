@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel>
-      <module name="Coffee_Machine_Simulator_with_Java.Coffee_Machine_Simulator_with_Java-task" target="17" />
-      <module name="Coffee_Machine_Simulator_with_Java.Coffee_Machine_Simulator_with_Java-task.main" target="17" />
-      <module name="Coffee_Machine_Simulator_with_Java.Coffee_Machine_Simulator_with_Java-task.test" target="17" />
-      <module name="Coffee_Machine_Simulator_with_Java.util" target="17" />
-      <module name="Coffee_Machine_Simulator_with_Java.util.main" target="17" />
-      <module name="Coffee_Machine_Simulator_with_Java.util.test" target="17" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="17" />
   </component>
 </project>
