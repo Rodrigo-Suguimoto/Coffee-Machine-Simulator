@@ -22,6 +22,10 @@ public class CoffeeMachine {
                 120, 9, 550);
 
         Scanner scanner = new Scanner(System.in);
+        coffeeMachine.getUserInput(scanner, coffeeMachine);
+    }
+
+    public void getUserInput(Scanner scanner, CoffeeMachine coffeeMachine) {
         String option;
         do {
             System.out.println("Write action (buy, fill, take):");

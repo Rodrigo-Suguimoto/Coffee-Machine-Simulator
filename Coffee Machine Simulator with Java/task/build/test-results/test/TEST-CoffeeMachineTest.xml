@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CoffeeMachineTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-03T13:53:28" hostname="rodrigo-Dell-G15-5530" time="0.142">
+<testsuite name="CoffeeMachineTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-04T13:57:04" hostname="rodrigo-Dell-G15-5530" time="0.11">
   <properties/>
-  <testcase name="start" classname="CoffeeMachineTest" time="0.142"/>
+  <testcase name="start" classname="CoffeeMachineTest" time="0.11"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 Write action (buy, fill, take):
